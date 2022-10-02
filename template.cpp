@@ -17,8 +17,8 @@ int rand(int a, int b)
 #define no "NO\n"
 #define pb push_back
 #define all(x) x.begin(), x.end()
-//#define int long long
-#define db(a) cout << #a << "=" << (a) << " ";
+// #define int long long
+#define db(a) cout << #a "=" << (a) << " ";
 #define deb(a) db(a) cout << '\n';
 #define deb2(a, b) db(a) db(b) cout << '\n';
 #define deb3(a, b, c) db(a) db(b) db(c) cout << '\n';
